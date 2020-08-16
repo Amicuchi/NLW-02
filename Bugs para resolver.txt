@@ -1,0 +1,22 @@
+Falta fazer:
+
+01 - Página de cadastrado com sucesso
+     * Atualmente, quando o proffy faz o cadastro, é redirecionado automaticamente
+       para a página de listagem, novamente.
+     * Interessante que haja uma página de cadastro com suscesso.
+	- Essa página deve permanecer por 2 segundos e redirecionar para a de listagem dos proffys.
+	- isso, com filtro.
+
+	Usar p setTimeout para aguardar os 2 segundos
+	location.href = ""
+02 - Correção de bugs:
+	- Na página de casdastro, o proffy pode inserir mais de um horário de cada vez.
+	  Porém, se ele desistir de cadastrar um desses horários, não tem como excluir.
+	  Criar um botão para excluir horário.
+	  Para isso, pesquisar como remover um elemento HTML com JavaScript
+
+	- Opção para o bug anterior é:	
+	  Não permitir que o usuário coloque um novo campo de dia e horário se o 
+	  dia e hora anterior estiver vazio.
+
+
