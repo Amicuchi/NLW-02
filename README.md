@@ -1,13 +1,13 @@
 # NLW2
 <br>
 <p>Conteúdo da NLW2 da Rockeatseat que foi de 03/08/2020 até 07/08/2020.</p>
+
 <h2>Proffy</h2>
 <p>Projeto desenvolvido durante a NLW2 (Next Level Week #2) organizado pela empresa RocketSeat</p>
-<br>
 <h3>O objetivo principal da aplicação é ajudar professores e alunos a se contactarem: </h3>
 <ul>
-	<li>Página de pesquisa para estudantes </li>
-	<li>Cadastro para os professores </li>
+   <li>Página de pesquisa para estudantes </li>
+   <li>Cadastro para os professores </li>
 </ul>
 
 <p align="center">
@@ -18,11 +18,11 @@
 </p>
 
 
-<h2>Tecnologias utilizadas: </h2>
-- [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/pt-br/)
-- [SQLite](https://www.sqlite.org/index.html)
-- [Nunjucks](https://mozilla.github.io/nunjucks/)
+<h3>Tecnologias utilizadas: </h3>
+- [Node.js](https://nodejs.org/en/) <br>
+- [Express](https://expressjs.com/pt-br/) <br>
+- [SQLite](https://www.sqlite.org/index.html) <br>
+- [Nunjucks](https://mozilla.github.io/nunjucks/) <br>
 
 <h4>Front-end: </h4>
 <p>
