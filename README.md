@@ -7,13 +7,6 @@
    <li>Cadastro para os professores </li>
 </ul>
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
-
 ## Tecnologias
 - [Node.js](https://nodejs.org/en/) <br>
 - [Express](https://expressjs.com/pt-br/) <br>
